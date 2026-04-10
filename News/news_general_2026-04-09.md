@@ -1,89 +1,87 @@
 # 🌙 Ummah News Kids
 ### Your Weekly World News — Simple, Kind & True
-*Bismillah! Let's learn about our world together.*
+*Brought to you by Ummah News Kids | For Muslim children ages 6–12*
 
 ---
 
-## 📰 Story 1: Scientists Discover New Ocean Animals 🐠
-
-### What Happened?
-Scientists exploring the deep ocean found **new creatures** living far below the water's surface! These amazing animals — including colourful fish and tiny glowing sea creatures — had never been seen before.
-
-### 🌍 Why It Matters
-Our oceans cover more than half of the Earth. Every time scientists discover something new, it reminds us how **big and wonderful** our world really is!
-
-### ☪️ What Islam Teaches
-Allah says in the Quran that He created **everything** in the heavens and the earth, and that there are signs of His greatness all around us. These hidden creatures in the deep sea are a sign of Allah's **endless creativity and power**.
-
-> *"And He has subjected to you whatever is in the heavens and whatever is on the earth — all from Him."* — Quran 45:13
-
-### 💚 What We Can Do
-- Say **SubhanAllah** when you see something amazing in nature
-- Learn one new fact about ocean animals this week
-- Be kind to animals and never waste water
+## 📰 This Week's Stories
 
 ---
 
-## 📰 Story 2: Countries Work Together to Plant Millions of Trees 🌳
+### 🌍 Story 1: Scientists Find New Ways to Clean Ocean Water
 
-### What Happened?
-Several countries around the world joined together in a **big tree-planting project**. Millions of trees are being planted in forests, cities, and dry lands to help the environment and give animals a safe home.
+**What Happened?**
+Scientists around the world have been working hard to find new ways to clean dirty ocean water. They discovered special filters that can remove harmful plastic and pollution from the sea, helping fish and sea creatures stay safe and healthy.
 
-### 🌍 Why It Matters
-Trees give us clean air to breathe, shelter for birds and animals, and shade on hot days. When countries **work together**, they can solve big problems that no one country can fix alone!
+**Why It Matters?**
+Millions of people and animals depend on clean oceans for food and life. When our oceans are dirty, fish get sick, beaches become unsafe, and the whole world feels it. This discovery gives us hope that we can fix the damage done to our seas.
 
-### ☪️ What Islam Teaches
-Our beloved Prophet Muhammad ﷺ loved trees and plants. He taught us that taking care of the Earth is an **act of worship**. He said:
+**What Does Islam Teach Us? 🕌**
+Allah (SWT) says in the Quran that He made water the source of all living things *(Surah Al-Anbiya, 21:30)*. The Prophet Muhammad ﷺ also taught us **never to waste water** and never to pollute it. We are *khalifah* — caretakers of this Earth — and that is a big responsibility!
 
-> *"If the Hour comes while one of you has a seedling in his hand and is able to plant it, let him plant it."* — Ahmad
+> *"And do not cause corruption upon the earth after its reformation."*
+> — **Surah Al-A'raf (7:56)**
 
-This means even in difficult times, we should **keep doing good** for the Earth.
-
-### 💚 What We Can Do
-- Plant a seed at home — even in a small pot!
-- Pick up litter in your garden or park
-- Thank Allah for the trees that give us fruit and shade
+**What Can We Do? ✅**
+- 🚯 Never drop litter near rivers, lakes or beaches
+- ♻️ Help your family recycle plastic bottles
+- 💧 Turn off the tap when you brush your teeth
+- 🤲 Make du'a for Allah to protect our oceans
 
 ---
 
-## 📰 Story 3: Children Around the World Help Feed Hungry Families 🍲
+### 🏫 Story 2: Many Children Around the World Still Can't Go to School
 
-### What Happened?
-Young children in different countries — some as young as **7 years old** — organised food drives and collected meals for families who didn't have enough to eat. Their small actions helped **thousands of people!**
+**What Happened?**
+A report this week shared that millions of children — especially in parts of Africa and Asia — are still unable to go to school. Some live too far away, some families cannot afford it, and in some places, schools have been damaged. Many organisations are now working to build more schools and get children learning again.
 
-### 🌍 Why It Matters
-Many families around the world struggle to find food every day. When children take action, it shows that **everyone — no matter how young — can make a difference.**
+**Why It Matters?**
+Every child deserves a chance to learn. Education helps children grow up healthy, confident, and able to help their families and communities. When children miss school, it makes it harder for them to have a bright future.
 
-### ☪️ What Islam Teaches
-Islam places great importance on feeding others. Allah loves those who share what they have, even when they don't have much. The Prophet ﷺ said:
+**What Does Islam Teach Us? 🕌**
+The very first word revealed to our Prophet Muhammad ﷺ was **"Iqra"** — which means **READ**! Islam made it clear from the very beginning that learning is important for every Muslim, boy or girl.
 
-> *"The best of people are those who are most beneficial to others."* — Al-Tabarani
+> *"Read! In the name of your Lord who created."*
+> — **Surah Al-Alaq (96:1)**
 
-Helping a hungry person is one of the **most beloved deeds** to Allah.
+The Prophet ﷺ also said: *"Seeking knowledge is an obligation upon every Muslim."* *(Ibn Majah)*
 
-### 💚 What We Can Do
-- Ask your parents if you can donate some food to a local food bank
-- Share your lunch or snacks with a friend in need
-- Make du'a for children and families who are hungry
+**What Can We Do? ✅**
+- 📚 Be grateful for your school and teachers
+- 💰 Ask your parents about charities that build schools (like UNICEF or Islamic Relief)
+- 🤝 Help a friend who is struggling with their schoolwork
+- 🤲 Make du'a for every child who wishes they could go to school
+
+---
+
+### 🤝 Story 3: Communities Come Together to Help Flood Victims
+
+**What Happened?**
+Heavy rains caused flooding in several countries this week, including parts of South Asia and East Africa. Many families lost their homes and belongings. But the amazing news is that people from near and far came together — sending food, clean water, blankets, and volunteers to help those in need.
+
+**Why It Matters?**
+Natural disasters remind us how quickly life can change, and how much we need each other. When communities work together, even the hardest situations become easier to bear. The kindness of strangers can save lives.
+
+**What Does Islam Teach Us? 🕌**
+Our beloved Prophet Muhammad ﷺ described the Muslim community like **one body** — if one part hurts, the whole body feels it.
+
+> *"The believers, in their mutual kindness, compassion and sympathy, are just like one body."*
+> — **Sahih Muslim**
+
+Islam also teaches us that giving *sadaqah* (charity) — even a smile or a kind word — is a great act of worship.
+
+**What Can We Do? ✅**
+- 🍱 Ask your family if you can donate food or clothes to a local charity
+- 🌟 Learn about organisations like Islamic Relief or Muslim Aid
+- 💛 Check on your neighbours — do they need any help?
+- 🤲 Make du'a for the families affected by floods
 
 ---
 
 ## 🌟 Good News of the Week!
 
-A young Muslim girl in the UK started a **free library box** outside her house — filled with books for neighbourhood children to borrow for free. It became so popular that **10 more families** on her street did the same thing! Now dozens of children have books to read. 📚✨
+### 🐘 Baby Elephants Are Thriving in Kenya!
 
----
+Wildlife rangers in Kenya are celebrating — a group of baby elephants that were rescued as orphans have grown up healthy and strong, and were released back into the wild this week! Conservation workers spent years caring for them with love and patience.
 
-## 🤔 Reflection Question
-
-> **"The Prophet ﷺ told us that even a smile is charity."**
-> Think about today — did you smile at someone, say a kind word, or do something small but good?
-> **What small act of kindness can YOU do tomorrow?**
-
----
-
-*May Allah bless you with knowledge, kindness, and a curious heart. 💛*
-*See you next week, in sha Allah!*
-
----
-*Ummah News Kids — Learning About Our World the Islamic Way* 🌙
+**This reminds us:** When we are kind to Allah's creatures
