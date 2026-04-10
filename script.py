@@ -67,3 +67,21 @@ if __name__ == "__main__":
         print(f"\nSaved to {filename}")
     else:
         print(content)
+def update_index(news_html):
+    with open("index.html", "r", encoding="utf-8") as f:
+        content = f.read()
+
+    start = content.find("<div class=\"card\">")
+    end = content.find("</div>", start) + 6
+
+    new_content = content[:start] + f'''
+  <div class="card">
+    <h2>📰 Today's Story</h2>
+    {news_html}
+  </div>
+''' + content[end:]
+
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(new_content)
+
+
